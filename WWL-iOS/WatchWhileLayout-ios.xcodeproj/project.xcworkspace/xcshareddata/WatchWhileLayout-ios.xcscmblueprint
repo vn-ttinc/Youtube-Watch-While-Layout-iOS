@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D34CC4BA1F0747DBE554F7F1D0F7D36A6C917292",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9884E4D476232088389E48A4CC35E64A881A8E4D" : 0,
+    "D34CC4BA1F0747DBE554F7F1D0F7D36A6C917292" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DEAB331F-4CCD-4B6A-A32E-5D3F816BF906",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9884E4D476232088389E48A4CC35E64A881A8E4D" : "",
+    "D34CC4BA1F0747DBE554F7F1D0F7D36A6C917292" : "WatchWhileLayout-ios\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WatchWhileLayout-ios",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WatchWhileLayout-ios.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vn-ttinc\/Youtute-Watch-While-Layout",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9884E4D476232088389E48A4CC35E64A881A8E4D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/kthangtd\/watchwhilelayout-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D34CC4BA1F0747DBE554F7F1D0F7D36A6C917292"
+    }
+  ]
+}

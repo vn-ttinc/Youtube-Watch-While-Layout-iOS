@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="va1-Fo-NQS">
+            <rect key="frame" x="0.0" y="0.0" width="264" height="70"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="264" height="70"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" tag="1010" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Title" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hYg-El-sKc">
+                        <rect key="frame" x="16" y="12" width="240" height="27"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="22"/>
+                        <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="LOLTube" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wmT-Iq-lPH">
+                        <rect key="frame" x="16" y="41" width="240" height="18"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="0.59812721631205668" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            </view>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="wmT-Iq-lPH" firstAttribute="leading" secondItem="va1-Fo-NQS" secondAttribute="leading" constant="16" id="1h2-P6-45A"/>
+                <constraint firstAttribute="trailing" secondItem="hYg-El-sKc" secondAttribute="trailing" constant="8" id="7zD-aB-lYl"/>
+                <constraint firstItem="hYg-El-sKc" firstAttribute="leading" secondItem="va1-Fo-NQS" secondAttribute="leading" constant="16" id="APM-hL-q24"/>
+                <constraint firstAttribute="trailing" secondItem="wmT-Iq-lPH" secondAttribute="trailing" constant="8" id="Gmx-wt-5bU"/>
+                <constraint firstItem="hYg-El-sKc" firstAttribute="top" secondItem="va1-Fo-NQS" secondAttribute="top" constant="12" id="XCP-8h-7l5"/>
+                <constraint firstItem="wmT-Iq-lPH" firstAttribute="top" secondItem="hYg-El-sKc" secondAttribute="bottom" constant="2" id="nnB-KQ-tHz"/>
+            </constraints>
+            <size key="customSize" width="264" height="71"/>
+            <point key="canvasLocation" x="246" y="151.5"/>
+        </collectionViewCell>
+    </objects>
+</document>
